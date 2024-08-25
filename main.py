@@ -1,5 +1,3 @@
-# Project 4 D&A
-
 import subprocess as sp
 import pymysql
 import pymysql.cursors
